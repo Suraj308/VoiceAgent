@@ -107,7 +107,13 @@ The system is designed with restraint in mind.
 
 ## Demo
 
+Demo - https://youtu.be/gGnH3v7BVdQ
 
+---
+
+## Demo
+
+Article - https://dev.to/suraj_kaushik_1cba7bcf833/building-voiceagent-from-speech-to-safe-action-46kc
 
 ---
 
